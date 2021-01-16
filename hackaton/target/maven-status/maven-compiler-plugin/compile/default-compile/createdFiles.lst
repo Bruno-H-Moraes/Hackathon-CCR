@@ -1,0 +1,16 @@
+com\ccrecruiter\model\UsuarioLogin.class
+com\ccrecruiter\repository\TemaRepository.class
+com\ccrecruiter\seguranca\UserDetailsServiceImpl.class
+com\ccrecruiter\config\SwaggerConfig.class
+com\ccrecruiter\controller\PostagemController.class
+com\ccrecruiter\repository\PostagemRepository.class
+com\ccrecruiter\model\Tema.class
+com\ccrecruiter\controller\TemaController.class
+com\ccrecruiter\controller\UsuarioController.class
+com\ccrecruiter\model\Usuario.class
+com\ccrecruiter\ccrecruiterApplication.class
+com\ccrecruiter\service\UsuarioService.class
+com\ccrecruiter\seguranca\UserDetailsImpl.class
+com\ccrecruiter\repository\UsuarioRepository.class
+com\ccrecruiter\model\Postagem.class
+com\ccrecruiter\seguranca\BasicSecurityConfig.class
