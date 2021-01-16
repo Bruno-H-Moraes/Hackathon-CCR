@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.ccrecruiter.ccRecruiterApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.911 s - in com.ccrecruiter.ccRecruiterApplicationTests
