@@ -1,5 +1,5 @@
 package com.ccrecruiter.seguranca;
-
+//atualização maven
 import java.util.Collection;
 import java.util.List;
 
