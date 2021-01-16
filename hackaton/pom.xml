@@ -8,10 +8,10 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jobstergroup</groupId>
-	<artifactId>Jobster</artifactId>
+	<groupId>com.ccrecruiter</groupId>
+	<artifactId>CCRecruiter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jobster</name>
+	<name>CCRecruiter</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

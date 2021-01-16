@@ -1,4 +1,4 @@
-package com.jobster;
+package com.ccrecruiter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
