@@ -25,7 +25,7 @@ No terminal:
 # Clone o repositório
 $ git clone https://github.com/Bruno-H-Moraes/Hackathon-CCR.git
 # Acesse a pasta do projeto
-$ cd ccr-hackathon
+$ cd hackathon-ccr
 
 # Instale as dependências
 $ yarn install
